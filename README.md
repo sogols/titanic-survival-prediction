@@ -6,8 +6,8 @@ This project applies various machine learning models to predict passenger surviv
 
 ## 📁 Project Structure
 
-- `titanic_analysis.ipynb` – EDA, feature engineering, preprocessing
-- `titanic_classification.ipynb` – ML models, deep learning, tuning, evaluation
+- `titanic_analysis_visualization.ipynb` – EDA, feature engineering, preprocessing
+- `titanic_survival_prediction.ipynb` – ML models, deep learning, tuning, evaluation
 - `titanic_cleaned.csv` – Preprocessed dataset used for modeling
 - `requirements.txt` – List of required Python packages
 - `README.md` – This file
