@@ -47,3 +47,11 @@ Install them with:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 💬 Author
+
+**Sogol Sondossi**  
+🎓 Data Science Enthusiast with a background in Mathematics and Data Mining  
+📫 Email: [sogolsondossi96@gmail.com](mailto:sogolsondossi96@gmail.com) 📧
